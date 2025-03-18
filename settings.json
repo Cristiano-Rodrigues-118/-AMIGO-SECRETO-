@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501
+}git config --global user.name "Cristiano Rodrigues"
+git config --global user.email "cristianocrvasco@outlook.com.br"
+git init
+git add challenge-amigo-secreto_pt-main
+
